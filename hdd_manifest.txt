@@ -1,0 +1,49 @@
+# Copyright 2016 RackTop Systems Inc. and/or its affiliates.
+# http://www.racktopsystems.com
+#
+# The contents of this file are subject to the terms of the RackTop Commercial
+# License ("RTCL"). You may not use, redistribute, or modify this file in source
+# or binary forms except in compliance with the RTCL. You can obtain a copy at
+# http://racktopsystems.com/legal/rtcl.txt.
+#
+# @@DESCRIPTION@@  Latest supported firmware file revisions
+# @@NAME@@         hdd_manifest.txt
+# @@GUID@@         f67322df-0d83-69e1-f127-90745e7ae16e
+# @@STABILITY@@    stable
+# @@VERSION@@      1.0.1
+# @@AUTHOR@@       David Lethe
+# @@ATYPE@@        SCRIPT
+# @@DISTRIBUTION@@ PUBLIC
+#
+#
+SEAGATE ST1000NM0001    X??? XRBA N Y
+SEAGATE ST1000NM0001    000? 0003 N Y
+SEAGATE ST1000NM0023    000? 0004 N Y
+SEAGATE ST4000NM0063	000? 0004 N Y
+SEAGATE ST3300657SS     ES62 ---- N N
+SEAGATE ST32000446SS    000? 0007 N Y
+SEAGATE ST32000645SS    000? 0005 N Y
+SEAGATE ST2000NM0001    000? 0003 N Y
+SEAGATE ST2000NM0001    X??? XRBA N Y
+SEAGATE ST941000640SS   000? 0004 N Y
+STEC    ZeusRAM         C0?? C025 Y Y
+STEC    S840E200M2      E4?? E4TD Y Y
+STEC    S842E400M2      E??? E505 Y N
+STEC    S842E800M2      E??? E4TB Y N
+STEC    S842E2000M2     E??? E50D Y N
+STEC    Z16IZF2E-100UCU E4?? E4TC Y N
+HGST    HUC106060CSS600 ---- ---- Y N
+HGST    HUS724020ALS640 A??? A280 N Y
+HGST    HUS724040ALS640 A??? A280 N Y
+HGST    HUS726020AL4214 C??? C7J0 N Y
+HGST    HUS723020ALS640 A??? A280 N N
+HGST    HUS724040ALS641 B??? B280 N N
+HGST    HUS726060ALS640 A??? A280 N Y
+HGST    HUSMM8080ASS205 D2?? D210 N N
+HGST    HUSMM1680ASS200 A??? A2C0 N Y
+HGST    HUSMM1680ASS205 D??? D2C0 N N
+HGST    HUSMM1620ASS200 A??? A2C0 N Y
+HGST    HUSMM1640ASS200 A??? A2C0 N Y
+#
+# EOF
+#
